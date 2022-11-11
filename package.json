@@ -1,10 +1,9 @@
 {
   "name": "gameslot-roma",
   "main": "./lib/gameslot-roma",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "สล็อต ROMA เกมสล็อตยอดฮิตจากค่าย Joker Gaming",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "gameslot-roma:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
