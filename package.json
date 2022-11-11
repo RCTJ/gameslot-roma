@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "gameslot-roma:toggle"
   },
-  "repository": "https://github.com/atom/gameslot-roma",
+  "repository": "https://github.com/RCTJ/gameslot-roma",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
