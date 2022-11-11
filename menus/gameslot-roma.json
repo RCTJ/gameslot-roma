@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gameslot-roma",
+        "command": "gameslot-roma:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gameslot-roma",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "gameslot-roma:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
